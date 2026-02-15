@@ -1,0 +1,314 @@
+{
+    "transactions": [
+        {
+            "id": "CQ4277-001",
+            "product": "OG Mocha",
+            "brand": "Jordan x Travis Scott",
+            "amount": "$1,600.00",
+            "cost": "$900.00",
+            "quantity": 1,
+            "date": "2024-01-15",
+            "status": "Completada"
+        },
+        {
+            "id": "DM7866-140",
+            "product": "Fragment Design",
+            "brand": "Jordan x Travis Scott",
+            "amount": "$1,450.00",
+            "cost": "$850.00",
+            "quantity": 1,
+            "date": "2024-01-16",
+            "status": "Completada"
+        },
+        {
+            "id": "DM7866-162",
+            "product": "Reverse Mocha",
+            "brand": "Jordan x Travis Scott",
+            "amount": "$1,150.00",
+            "cost": "$600.00",
+            "quantity": 2,
+            "date": "2024-01-17",
+            "status": "Pendiente"
+        },
+        {
+            "id": "DZ4137-106",
+            "product": "Olive (W)",
+            "brand": "Jordan x Travis Scott",
+            "amount": "$550.00",
+            "cost": "$300.00",
+            "quantity": 1,
+            "date": "2024-01-18",
+            "status": "Completada"
+        },
+        {
+            "id": "CD4487-100",
+            "product": "Cactus Jack (Blue)",
+            "brand": "Jordan x Travis Scott",
+            "amount": "$850.00",
+            "cost": "$400.00",
+            "quantity": 1,
+            "date": "2024-01-19",
+            "status": "Cancelada"
+        },
+        {
+            "id": "308497-406",
+            "product": "Low Sail",
+            "brand": "Jordan x Travis Scott",
+            "amount": "$1,200.00",
+            "cost": "$700.00",
+            "quantity": 1,
+            "date": "2024-01-20",
+            "status": "Completada"
+        },
+        {
+            "id": "AQ4211-101",
+            "product": "Hot Step Air Terra",
+            "brand": "Nike x NOCTA",
+            "amount": "$180.00",
+            "cost": "$100.00",
+            "quantity": 2,
+            "date": "2024-01-21",
+            "status": "Pendiente"
+        },
+        {
+            "id": "DH4692-100",
+            "product": "Hot Step 2 (Orange)",
+            "brand": "Nike x NOCTA",
+            "amount": "$220.00",
+            "cost": "$120.00",
+            "quantity": 1,
+            "date": "2024-01-22",
+            "status": "Completada"
+        },
+        {
+            "id": "DZ7293-800",
+            "product": "Glide (Black/White)",
+            "brand": "Nike x NOCTA",
+            "amount": "$160.00",
+            "cost": "$90.00",
+            "quantity": 3,
+            "date": "2024-01-23",
+            "status": "Completada"
+        },
+        {
+            "id": "DM0113-001",
+            "product": "AF1 Low CLB",
+            "brand": "Nike x NOCTA",
+            "amount": "$165.00",
+            "cost": "$95.00",
+            "quantity": 2,
+            "date": "2024-01-24",
+            "status": "Pendiente"
+        },
+        {
+            "id": "CZ8065-100",
+            "product": "Forum The First Café",
+            "brand": "Adidas x Bad Bunny",
+            "amount": "$450.00",
+            "cost": "$220.00",
+            "quantity": 1,
+            "date": "2024-01-25",
+            "status": "Cancelada"
+        },
+        {
+            "id": "GW0264",
+            "product": "Forum Easter Egg",
+            "brand": "Adidas x Bad Bunny",
+            "amount": "$420.00",
+            "cost": "$200.00",
+            "quantity": 2,
+            "date": "2024-01-26",
+            "status": "Completada"
+        },
+        {
+            "id": "GW0265",
+            "product": "Forum Triple Black",
+            "brand": "Adidas x Bad Bunny",
+            "amount": "$350.00",
+            "cost": "$180.00",
+            "quantity": 4,
+            "date": "2024-01-27",
+            "status": "Pendiente"
+        },
+        {
+            "id": "GW5021",
+            "product": "Campus Cloud White",
+            "brand": "Adidas x Bad Bunny",
+            "amount": "$210.00",
+            "cost": "$110.00",
+            "quantity": 1,
+            "date": "2024-01-28",
+            "status": "Completada"
+        },
+        {
+            "id": "FZ5823",
+            "product": "Response CL Yellow",
+            "brand": "Adidas x Bad Bunny",
+            "amount": "$190.00",
+            "cost": "$100.00",
+            "quantity": 3,
+            "date": "2024-01-29",
+            "status": "Completada"
+        },
+        {
+            "id": "GY0101",
+            "product": "Lost & Found",
+            "brand": "Jordan",
+            "amount": "$420.00",
+            "cost": "$180.00",
+            "quantity": 1,
+            "date": "2024-01-30",
+            "status": "Pendiente"
+        },
+        {
+            "id": "555088-035",
+            "product": "Shadow 2.0",
+            "brand": "Jordan",
+            "amount": "$230.00",
+            "cost": "$110.00",
+            "quantity": 2,
+            "date": "2024-02-01",
+            "status": "Completada"
+        },
+        {
+            "id": "555088-134",
+            "product": "University Blue",
+            "brand": "Jordan",
+            "amount": "$380.00",
+            "cost": "$170.00",
+            "quantity": 2,
+            "date": "2024-02-02",
+            "status": "Pendiente"
+        },
+        {
+            "id": "DC0774-105",
+            "product": "Wolf Grey (W)",
+            "brand": "Nike",
+            "amount": "$190.00",
+            "cost": "$100.00",
+            "quantity": 3,
+            "date": "2024-02-03",
+            "status": "Completada"
+        },
+        {
+            "id": "553558-612",
+            "product": "Bred Toe",
+            "brand": "Jordan",
+            "amount": "$320.00",
+            "cost": "$150.00",
+            "quantity": 1,
+            "date": "2024-02-04",
+            "status": "Completada"
+        },
+        {
+            "id": "DC0774-101",
+            "product": "Panda Black/White",
+            "brand": "Nike",
+            "amount": "$115.00",
+            "cost": "$70.00",
+            "quantity": 6,
+            "date": "2024-02-05",
+            "status": "Pendiente"
+        },
+        {
+            "id": "DD1391-100",
+            "product": "Dunk Low Panda",
+            "brand": "Nike",
+            "amount": "$115.00",
+            "cost": "$70.00",
+            "quantity": 2,
+            "date": "2024-02-06",
+            "status": "Cancelada"
+        },
+        {
+            "id": "DD1391-103",
+            "product": "Dunk Low Grey Fog",
+            "brand": "Nike",
+            "amount": "$160.00",
+            "cost": "$90.00",
+            "quantity": 1,
+            "date": "2024-02-07",
+            "status": "Completada"
+        },
+        {
+            "id": "FD0860-001",
+            "product": "SB Dunk Jarritos",
+            "brand": "Nike SB",
+            "amount": "$520.00",
+            "cost": "$280.00",
+            "quantity": 2,
+            "date": "2024-02-09",
+            "status": "Completada"
+        },
+        {
+            "id": "DD1391-102",
+            "product": "Dunk Low UNC",
+            "brand": "Nike",
+            "amount": "$260.00",
+            "cost": "$130.00",
+            "quantity": 3,
+            "date": "2024-02-10",
+            "status": "Completada"
+        },
+        {
+            "id": "DZ0802-102",
+            "product": "Jordan 1 Retro High OG SP",
+            "brand": "Jordan",
+            "amount": "$280.00",
+            "cost": "$170.00",
+            "quantity": 5,
+            "date": "2024-02-10",
+            "status": "Completada"
+        },
+        {
+            "id": "417279-102",
+            "product": "Jordan 6 Retro PRM Bin23",
+            "brand": "Jordan",
+            "amount": "$2,500.00",
+            "cost": "$1,200.00",
+            "quantity": 1,
+            "date": "2024-02-11",
+            "status": "Completada"
+        },
+        {
+            "id": "FZ001-NIKE",
+            "product": "Nike Mind 001 Slide",
+            "brand": "Nike",
+            "amount": "$110.00",
+            "cost": "$50.00",
+            "quantity": 12,
+            "date": "2024-02-12",
+            "status": "Completada"
+        },
+        {
+            "id": "DH3221-102",
+            "product": "Jordan 1 High 85 Panda",
+            "brand": "Jordan",
+            "amount": "$450.00",
+            "cost": "$220.00",
+            "quantity": 2,
+            "date": "2024-02-13",
+            "status": "Pendiente"
+        },
+        {
+            "id": "FJ4141-100",
+            "product": "Jordan 4 SB Pine Green",
+            "brand": "Jordan x Nike SB",
+            "amount": "$550.00",
+            "cost": "$280.00",
+            "quantity": 3,
+            "date": "2024-02-14",
+            "status": "Completada"
+        },
+        {
+            "id": "CU3244-100",
+            "product": "Chunky Dunky",
+            "brand": "Nike SB",
+            "amount": "$1,550.00",
+            "cost": "$800.00",
+            "quantity": 1,
+            "date": "2024-01-20",
+            "status": "Completada"
+        }
+    ]
+}

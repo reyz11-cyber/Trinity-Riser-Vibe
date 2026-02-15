@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRINITY RISER VIBE</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js">
+    </script>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="logo-section">
+                <h1>TRINITY RISER VIBE</h1>
+            </div>
+            <nav class="sidebar-nav">
+                <a href="#" class="active">Inicio</a>
+                <a href="#">Métricas</a>
+                <a href="#">Reportes</a>
+                <a href="#">Configuración</a>
+            </nav>
+        </aside>    
+        
+        <main class="main-content">
+            <header class="top-bar">
+                <div class="search-container">
+                    <input type="text" id="globalSearch" placeholder="Buscar producto o ID...">
+                </div>
+            </header> 
+
+            <section class="dashboard-body">
+                <h2 class="page-title">Resumen de Inventario</h2>
+                
+                <div class="metrics-row" id="metricsContainer">
+                    </div>
+
+                <div class="charts-row">
+                    <div class="chart-card bar-box">
+                        <h3>Ventas por Mes</h3>
+                        <div class="canvas-wrapper">
+                            <canvas id="chart-transactions">
+                            </canvas>
+                        </div>
+                    </div>
+                    <div class="chart-card donut-box">
+                        <h3>Estado de Transacción</h3>
+                        <div class="canvas-wrapper">
+                            <canvas id="chart-status"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="table-section">
+                    <h3>Datos de Transacción</h3>
+                    <div class="table-responsive">
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>PRODUCTO</th>
+                                    <th>MARCA</th>
+                                    <th>FECHA</th>
+                                    <th>MONTO</th>
+                                    <th>CANTIDAD</th>
+                                    <th>ESTADO</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tableBody">
+                                </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
